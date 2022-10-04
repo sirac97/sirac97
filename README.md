@@ -1,5 +1,6 @@
 # 💫 About Me:
- Hi, I'm Sırac and I'm a UX designer and web developer. <br>My specialties are UI & UX | Web | Mobile design
+ **Hi there** 	:wave: 
+ <br>I'm **Sırac** and I'm a **UX designer** and **web developer**. <br>My specialties are UI & UX | Web | Mobile design
 
 
 ## 🌐 Socials:
