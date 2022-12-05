@@ -1,6 +1,6 @@
 # 💫 About Me:
  **Hi there** 	:wave: 
- <br>I'm **Sırac** and I'm a **UX designer** and **web developer**. <br>My specialties are UI & UX | Web | Mobile design
+ <br>I'm **Sırac** and I'm a **software developer**. <br>My specialties are UI & UX | Web | Mobile design | Testing
 
 
 ## 🌐 Socials:
