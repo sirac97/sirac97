@@ -5,7 +5,7 @@
 I'm Sırac Boran a CTIS graduate from Bilkent University. With a background in Frontend development, specializing in UI-UX Design, I have dedicated my career to create and improve the user experience of digital products and services.
  
  
-🧑‍💻 ## Professional Skills:
+## Professional Skills 🧑‍💻
  <br>**Design:** UX-UI, Adobe Illustrator, Figma, Wireframing, Prototyping
  <br>**FrontEnd:**
 
