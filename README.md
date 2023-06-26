@@ -1,4 +1,4 @@
-# 💫 About Me:
+# Hello there 👋🏻
  **Hi there** 	:wave: 
  <br>I'm **Sırac** and I'm a **software developer**. <br>My specialties are UI & UX | Web | Mobile design | Testing
 
