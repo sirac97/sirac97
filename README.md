@@ -6,7 +6,7 @@ I'm Sırac Boran a CTIS graduate from Bilkent University. With a background in F
  
  
 ## Professional Skills 🧑‍💻
- * **Design:** UX Research, UI Design, Adobe Illustrator, Figma,W ireframing, Prototyping, Interaction Design
+ * **Design:** UX Research, UI Design, Adobe Illustrator, Figma, Wireframing, Prototyping, Interaction Design
  * **FrontEnd:** HTML5, TailwindCSS, Javascript, jQuery, NodeJs
 
 ## 🌐 Socials:
